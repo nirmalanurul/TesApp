@@ -14,7 +14,7 @@ public class MenuUtama extends JFrame {
 
     public MenuUtama() {
         setContentPane(mainPanel);
-        setTitle("Supermarket024 - Menu Utama");
+        setTitle("Supermarket024 - Menu Second");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         pack();
         setLocationRelativeTo(null);
